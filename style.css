@@ -53,3 +53,8 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.home-header{
+  text-align: center;
+  font-family:"Arial Black", Sans-serif;
+}
