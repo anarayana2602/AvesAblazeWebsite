@@ -48,7 +48,11 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #38C94B}
+.dropdown-content a:hover {
+	background-color: #38C94B;
+	border:visible;
+	border-width:0.7px;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
